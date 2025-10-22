@@ -1,0 +1,2 @@
+This is thirdFile.txt
+Some text
