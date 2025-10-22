@@ -1,5 +1,5 @@
-Line 1
-Line 2
+Changed line 1 from folder2 step 18
+Changed line 2 from folder2 step 18
 Modified line 3 from step 7
 Modified line 4 from step 7
 Modified line 5 from step 8
