@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Different content from git_1 line 1
 Different content from git_1 line 2
+New content from git_2 line 1
+New content from git_2 line 2
 Second 3
 Second 4
 Second 5
